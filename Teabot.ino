@@ -1,3 +1,9 @@
+/**************************************************************************
+ 
+Written by Divija Durga, with help from the contributions of the open source community. 
+
+ **************************************************************************/
+
 #include <ArduinoIoTCloud.h>
 #include <Arduino_ConnectionHandler.h>
 #include <Servo.h>
