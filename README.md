@@ -9,4 +9,6 @@ Materials used:
 4. MicroUSB cable
 5. Electrical Tape
 
+The application is hosted using the Arduino IoT Cloud. I also created a version using Blynk, but prefer the Arduino IoT Cloud because of its seamless Alexa integration. 
+
 Video: https://youtu.be/3WikPtycYHc
